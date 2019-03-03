@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">jobfinder</string>
+
+
+    <string name="noInternetConnection" >No Internet connection</string>
+    <string name="try_again" >Try again</string>
+
+    <string name="msg_noInternetConnection">No Internet connection</string>
+    <string name="msg_onUnknownError">An unknown error has occurred</string>
+
+
+</resources>
